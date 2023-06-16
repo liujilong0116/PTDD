@@ -1,0 +1,41 @@
+start_time,stop_time,question,value,topic_idx
+66.87,67.51,how are you doing today,pretty good,0
+134.36,135.36,what'd you study at school,broadcast journalism,2
+184.68,190.94,what's your dream job,my dream job is working with football players and helping them recover from concussions and other injuries,11
+213.05,215.53,do you travel a lot,i used to i don't travel so much right now,12
+339.3,340.76,how are you at controlling your temper,<deep breath> pretty good,1
+341.83,344.99,how are you at controlling your temper,it depends on the situation but most of the time i'm pretty good,1
+350.05,357.14,when was the last time you argued with someone and what was it about,<deep breath> um i don't think i tend to argue with people i think i just get mad about situations,5
+357.64,359.78,when was the last time you argued with someone and what was it about,but not at people directly <sigh>,5
+469.31,471.69,how easy is it for you to get a good night's sleep,pretty easy i sleep pretty well <sigh>,9
+476.81,485.87,how have you been feeling lately,<deep breath> for the most part good i'm i'm just really worried about money <sigh> at the moment so that's my biggest so i can't say that i'm like great,13
+486.67,491.66,how have you been feeling lately,but i it's 'cause i am worried but you know i'm also confident that things are gonna work out,13
+497.5,498.66,have you ever been diagnosed with ptsd,nope <sigh>,14
+500.38,500.66,have you been diagnosed with depression,nope,4
+505.41,506.66,when was the last time you felt really happy,<sigh>,8
+507.74,509.23,when was the last time you felt really happy,hmm <sigh>,8
+510.79,512.78,when was the last time you felt really happy,i don't know i can't remember,8
+513.71,514.75,when was the last time you felt really happy,i mean i don't feel,8
+515.8,520.38,when was the last time you felt really happy,super happy all the time but i don't feel unhappy either sort of like just uh,8
+521.45,522.02,when was the last time you felt really happy,even,8
+523.03,523.57,when was the last time you felt really happy,keel,8
+565.99,567.88,how would your best friend describe you,<deep breath> i think,10
+568.5,571.67,how would your best friend describe you,they would say um reliable,10
+572.4,573.4,how would your best friend describe you,and,10
+574.43,575.58,how would your best friend describe you,loyal <sigh>,10
+575.98,576.7,how would your best friend describe you,and,10
+577.21,578.83,how would your best friend describe you,considerate and thoughtful,10
+582.09,584.99,is there anything you regret,<deep breath> no <sigh> i really have worked hard on that,3
+585.51,586.45,is there anything you regret,i think,3
+587.24,591.48,is there anything you regret,there are lots of things maybe i would do differently but there's nothing that really i regret,3
+618.32,625.41,what advice would you give to yourself ten or twenty years ago,<deep breath> oh that's a good question <sigh> um <sigh> don't worry about the small stuff,6
+626.54,629.43,what advice would you give to yourself ten or twenty years ago,and save more money <laughter>,6
+697.06,702.7,what are you most proud of in your life,<deep breath> that i've really been able to take care of myself and that,7
+703.13,707.16,what are you most proud of in your life,you know i've done pretty much everything that i've said that i've wanted to do,7
+708.08,709.03,what are you most proud of in your life,i've done that,7
+710.01,714.13,what are you most proud of in your life,and i don't and i don't have regrets about things there's nothing really that,7
+714.94,715.14,what are you most proud of in your life,eh,7
+715.71,717.12,what are you most proud of in your life,is un feels undone,7
+717.77,721.06,what are you most proud of in your life,in my life sure there's plenty of things i still wanna do,7
+721.77,722.8,what are you most proud of in your life,um but,7
+723.48,726.19,what are you most proud of in your life,i feel like i've done what i said i was gonna do,7

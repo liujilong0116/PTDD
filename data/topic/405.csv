@@ -1,0 +1,60 @@
+start_time,stop_time,question,value,topic_idx
+66.42,67.63,how are you doing today, okay,0
+68.23,69.03,how are you doing today,not,0
+69.4,70.01,how are you doing today,too bad,0
+205.59,210.22,do you travel a lot,um i don't currently but i did throughout my life i traveled,12
+210.64,211.6,do you travel a lot,quite a lot,12
+342.03,345.6,how are you at controlling your temper,uh pretty good yeah my temper's pretty level,1
+351.87,352.36,when was the last time you argued with someone and what was it about,hm,5
+354.73,355.99,when was the last time you argued with someone and what was it about,probably with my,5
+356.81,358.07,when was the last time you argued with someone and what was it about,husband,5
+359.73,360.75,when was the last time you argued with someone and what was it about,and,5
+362.92,365.17,when was the last time you argued with someone and what was it about,i can't remember at the moment what it was about,5
+826.8,827.279,how easy is it for you to get a good night's sleep,<sniff>,9
+827.906,830.049,how easy is it for you to get a good night's sleep,um not that easy,9
+830.732,833.645,how easy is it for you to get a good night's sleep,i do sometimes get a decent night's sleep but,9
+834.518,839.906,how easy is it for you to get a good night's sleep,sometimes it's hard to get to sleep and most of the time i wake up,9
+840.697,842.0,how easy is it for you to get a good night's sleep,and can't get back to sleep,9
+842.825,846.651,how easy is it for you to get a good night's sleep,uh or i finally get back to sleep and then it's almost time to get up you know that,9
+847.453,848.5,how easy is it for you to get a good night's sleep,that difficult thing,9
+938.627,941.841,how have you been feeling lately,lately how have i been feeling um,13
+945.29,946.277,how have you been feeling lately,kind of down,13
+947.546,949.312,how have you been feeling lately,on myself down on life,13
+1043.755,1044.082,have you ever been diagnosed with ptsd,no,14
+1047.197,1047.792,have you been diagnosed with depression,yes,4
+1175.209,1176.802,when was the last time you felt really happy,ooh <laughter>,8
+1177.5,1178.093,when was the last time you felt really happy,boy,8
+1179.104,1181.197,when was the last time you felt really happy,last time i felt really happy,8
+1186.767,1188.616,when was the last time you felt really happy,i don't know i guess maybe,8
+1191.186,1193.012,when was the last time you felt really happy,when my children were born,8
+1195.279,1195.849,when was the last time you felt really happy,that's,8
+1281.697,1283.092,what advice would you give to yourself ten or twenty years ago,ooh <sigh>,6
+1285.534,1288.683,what advice would you give to yourself ten or twenty years ago,stay in college get my degree,6
+1293.116,1296.671,what advice would you give to yourself ten or twenty years ago,get therapy try to become a happy,6
+1305.209,1309.134,what advice would you give to yourself ten or twenty years ago,yeah try to figure out things earlier in life,6
+1310.732,1311.485,what advice would you give to yourself ten or twenty years ago,like,6
+1313.43,1313.81,what advice would you give to yourself ten or twenty years ago,yeah,6
+1316.279,1324.678,what advice would you give to yourself ten or twenty years ago,stay in college and oh and mainly i think the main you know what it all boils down to <laughter> no matter what you're depressed about it seems like,6
+1326.279,1329.271,what advice would you give to yourself ten or twenty years ago,as as the saying goes and the songs <s> the,6
+1330.22,1331.934,what advice would you give to yourself ten or twenty years ago,songs go you know,6
+1332.488,1335.585,what advice would you give to yourself ten or twenty years ago,it's all about money the world revolves around money and,6
+1337.02,1338.565,what advice would you give to yourself ten or twenty years ago,having none,6
+1339.453,1346.872,what advice would you give to yourself ten or twenty years ago,that in itself is very depressing <laughter> so besides relationships and different things  that have happened in your life,6
+1347.779,1349.051,what advice would you give to yourself ten or twenty years ago,having no money,6
+1349.662,1350.313,what advice would you give to yourself ten or twenty years ago,is,6
+1351.214,1355.981,what advice would you give to yourself ten or twenty years ago,you know it's like you can't even try to fix anything because you don't have the money to fix it,6
+1356.93,1357.374,what advice would you give to yourself ten or twenty years ago,so,6
+1358.151,1363.548,what advice would you give to yourself ten or twenty years ago,with that in mind i would uh definitely advise myself to get my college degree,6
+1397.093,1398.395,what are you most proud of in your life,not much <laughter>,7
+1402.848,1403.831,what are you most proud of in your life,i guess,7
+1404.825,1407.064,what are you most proud of in your life,just my daughters you know they're,7
+1407.837,1409.302,what are you most proud of in your life,beautiful daughters and,7
+1410.36,1414.709,what are you most proud of in your life,i'm proud and glad that i was able to have children some people,7
+1416.197,1423.232,what are you most proud of in your life,aren't even able to do that you know and they  try so hard or they look back on their life and they wish they had done it so,7
+1424.058,1426.674,what are you most proud of in your life,that's the one thing i mean i wanted,7
+1427.104,1430.711,what are you most proud of in your life,five children and i always wanted a boy which i never had but,7
+1431.73,1432.546,what are you most proud of in your life,um i'm,7
+1432.813,1434.079,what are you most proud of in your life,i guess that's the,7
+1434.767,1435.893,what are you most proud of in your life,biggest thing i can,7
+1436.209,1438.034,what are you most proud of in your life,think of to be proud of,7
+1439.069,1441.517,what are you most proud of in your life,is having my two daughters,7

@@ -1,0 +1,29 @@
+start_time,stop_time,question,value,topic_idx
+68.69,69.92,how are you doing today,i'm doing fine,0
+148.92,149.91,do you travel a lot,sometimes,12
+204.87,206.26,what'd you study at school,sleeping,2
+216.41,217.62,what's your dream job,uh,11
+218.46,219.72,what's your dream job,being a filmmaker,11
+300.41,303.17,how are you at controlling your temper,i really don't have a temper,1
+310.56,314.09,when was the last time you argued with someone and what was it about,when i was sixteen my stepfather,5
+314.74,320.46,when was the last time you argued with someone and what was it about,uh because of uh nightmares i was having,5
+565.94,568.51,how easy is it for you to get a good night's sleep,uh really not that easy um,9
+568.84,569.39,how easy is it for you to get a good night's sleep,i,9
+570.51,576.44,how easy is it for you to get a good night's sleep,usually <use> usually take me like a few hours to get to finally get to sleep once i lay down in my bed,9
+616.65,620.81,how have you been feeling lately,well i've been feeling a little bit lately <leet> a little bit upset and,13
+621.41,623.6,how have you been feeling lately,just wish my life was different,13
+682.45,683.17,have you ever been diagnosed with ptsd,yes,14
+749.34,750.06,have you been diagnosed with depression,yes,4
+770.69,771.74,when was the last time you felt really happy,uh,8
+774.98,776.94,when was the last time you felt really happy,uh i guess a few days ago,8
+890.25,891.32,is there anything you regret,my life,3
+913.22,914.51,what advice would you give to yourself ten or twenty years ago,uh,6
+918.26,920.51,what advice would you give to yourself ten or twenty years ago,let me see ten twenty years ago,6
+920.72,923.36,what advice would you give to yourself ten or twenty years ago,i was especially,6
+925.7,926.45,what advice would you give to yourself ten or twenty years ago,uh,6
+927.92,932.34,what advice would you give to yourself ten or twenty years ago,i would just tell myself to keep a journal or something <s> uh or ,6
+933.18,934.57,what advice would you give to yourself ten or twenty years ago,to basically,6
+935.54,936.81,what advice would you give to yourself ten or twenty years ago,tell myself,6
+937.12,940.07,what advice would you give to yourself ten or twenty years ago,how my life will turn out now,6
+940.6,944.42,what advice would you give to yourself ten or twenty years ago,so that way hopefully the other me will make different choices,6
+953.28,954.98,what are you most proud of in your life,uh my mind,7

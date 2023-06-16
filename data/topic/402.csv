@@ -1,0 +1,21 @@
+start_time,stop_time,question,value,topic_idx
+102.22,103.04,how are you doing today,okay,0
+224.41,225.27,do you travel a lot,no,12
+237.67,239.66,what'd you study at school,um i didn't go to college,2
+243.81,245.86,what's your dream job,i'm still figuring that out,11
+319.22,322.07,how are you at controlling your temper,i think i'm really good at controlling my temper,1
+323.22,324.4,how are you at controlling your temper,for the most part,1
+330.88,334.42,when was the last time you argued with someone and what was it about,um before i came here <laughter>,5
+335.14,338.32,when was the last time you argued with someone and what was it about,um it was just about um,5
+341.64,343.05,when was the last time you argued with someone and what was it about,financial stress,5
+399.53,402.42,how easy is it for you to get a good night's sleep,not very easy at all,9
+424.89,428.35,how have you been feeling lately,in the past week i've been feeling a lot better,13
+501.96,502.47,have you been diagnosed with depression,yes,4
+838.88,843.2,is there anything you regret,<laughter> yeah i have regrets sure yeah,3
+863.07,866.02,what advice would you give to yourself ten or twenty years ago,value myself more so that i would make better,6
+866.75,868.55,what advice would you give to yourself ten or twenty years ago,relationship decisions,6
+937.37,938.47,what are you most proud of in your life,that,7
+940.77,942.1,what are you most proud of in your life,i'm not a quitter,7
+944.09,948.53,what are you most proud of in your life,that despite some very stressful circumstances over long periods of time i haven't,7
+949.3,950.28,what are you most proud of in your life,given up on,7
+951.3,952.67,what are you most proud of in your life,taking risks and,7

@@ -1,0 +1,29 @@
+start_time,stop_time,question,value,topic_idx
+65.68,66.62,how are you doing today,fine thank you,0
+120.312,120.772,do you travel a lot,yes,12
+231.2,234.45,what'd you study at school,uh i'd i'm an engineer i did mechanical engineering,2
+235.02,235.98,what'd you study at school,i'm also an m_b_a,2
+313.815,315.685,how are you at controlling your temper,i'm very good at that you know uh,1
+316.905,321.495,how are you at controlling your temper,even <e> even when i'm irritated uh you know i'm very good at controlling uh my temper,1
+331.485,334.085,when was the last time you argued with someone and what was it about,the last time i argued with,5
+335.55,336.46,when was the last time you argued with someone and what was it about,was with my brother,5
+336.96,342.45,when was the last time you argued with someone and what was it about,it was about my dad um you know uh he was getting old uh i mean he's getting old and um,5
+343.23,344.02,when was the last time you argued with someone and what was it about,he lives in india,5
+344.867,351.777,when was the last time you argued with someone and what was it about,and uh i was planning on uh bringing him here my dad's um i mean my brother said it's gonna be very expensive to,5
+354.955,359.305,when was the last time you argued with someone and what was it about,you know it's gonna be very expensive uh with respect to health bills,5
+360.275,369.89,when was the last time you argued with someone and what was it about,and uh i was uh you know arguing with him that we should all pool in the money and get them here because they are quite old i have a mom too you know pool some they're both old,5
+429.205,430.485,is there anything you regret,no not at this time,3
+461.62,461.83,have you ever been diagnosed with ptsd,no,14
+465.475,466.175,have you been diagnosed with depression,uh yes,4
+526.11,526.85,how have you been feeling lately,i been feeling good,13
+528.1,528.3,how have you been feeling lately,but,13
+577.89,583.795,how easy is it for you to get a good night's sleep,uh it's a little difficult but uh of late i've been able to sleep uh within half an hour ,9
+584.505,589.21,how easy is it for you to get a good night's sleep,there are days when it takes almost one two hours to uh go to sleep,9
+637.26,638.33,what are you most proud of in your life,what am i proud of,7
+671.211,671.702,how would your best friend describe you,uh,10
+672.593,673.329,how would your best friend describe you,my my,10
+674.557,679.602,how would your best friend describe you,i'm thinking my friends would describe me as uh very friendly very easy to get along with ,10
+680.915,682.387,how would your best friend describe you,uh very focused,10
+682.978,684.424,how would your best friend describe you,uh very intelligent ,10
+686.014,687.332,how would your best friend describe you,and a good cook,10
+757.699,758.772,what advice would you give to yourself ten or twenty years ago,listen to other people,6

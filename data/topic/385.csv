@@ -1,0 +1,16 @@
+start_time,stop_time,question,value,topic_idx
+55.33,56.37,how are you doing today,good how are you,0
+91.63,92.18,do you travel a lot,no,12
+105.55,106.16,what'd you study at school,business,2
+130.83,132.5,what's your dream job,hm maybe talking to you,11
+186.43,187.2,how are you at controlling your temper,i don't know,1
+194.7,196.05,when was the last time you argued with someone and what was it about,don't remember,5
+279.57,280.12,have you ever been diagnosed with ptsd,no,14
+282.89,283.49,have you been diagnosed with depression,no,4
+287.62,288.46,how easy is it for you to get a good night's sleep,somewhat okay,9
+315.89,316.63,how have you been feeling lately,i don't know,13
+324.37,326.1,when was the last time you felt really happy,hm don't don't remember,8
+398.37,400.53,how would your best friend describe you,um i don't know not sure,10
+423.89,424.84,what are you most proud of in your life,not sure,7
+437.65,438.18,is there anything you regret,no,3
+445.49,446.32,what advice would you give to yourself ten or twenty years ago,i don't know,6

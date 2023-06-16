@@ -1,0 +1,24 @@
+start_time,stop_time,question,value,topic_idx
+61.24,61.94,how are you doing today,very good,0
+108.03,108.77,do you travel a lot,uh no,12
+166.04,166.71,how are you at controlling your temper,i'm reasonable,1
+171.97,174.5,when was the last time you argued with someone and what was it about,mm maybe,5
+175.99,180.43,when was the last time you argued with someone and what was it about,maybe yesterday i was trying to figure out how to stuff <stu> pack something into the car,5
+186.42,187.33,how are you at controlling your temper,i'm very good at it,1
+225.81,229.2,what'd you study at school,uh math engineering computers,2
+272.52,273.39,what's your dream job,dream job,11
+277.11,278.64,what's your dream job,um <sigh> ,11
+280.15,281.27,what's your dream job,medical doctor,11
+411.81,412.27,have you ever been diagnosed with ptsd,no,14
+416.1,417.2,have you been diagnosed with depression,i don't think so no,4
+422.9,423.65,how easy is it for you to get a good night's sleep,<sigh>,9
+424.93,429.73,how easy is it for you to get a good night's sleep,takes me a little while to fall asleep but once i'm asleep it's it's reasonably okay,9
+556.11,559.2,how would your best friend describe you,reasonably smart inquisitive <inqui> inquisitive and curious,10
+630.52,631.03,is there anything you regret,no,3
+638.2,638.95,what advice would you give to yourself ten or twenty years ago,can you repeat that,6
+643.8,644.88,what advice would you give to yourself ten or twenty years ago,can you rephrase that,6
+671.65,674.34,what are you most proud of in your life,uh <sigh> most proud of,7
+674.83,680.75,what are you most proud of in your life,<deep breath> <sigh> maybe academic achievements,7
+704.96,705.99,when was the last time you felt really happy,mm,8
+709.63,710.66,when was the last time you felt really happy,mm,8
+714.76,715.48,when was the last time you felt really happy,i'm not sure,8

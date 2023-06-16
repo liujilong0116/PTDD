@@ -1,0 +1,63 @@
+start_time,stop_time,question,value,topic_idx
+60.83,61.95,how are you doing today,i'm doing okay,0
+62.45,63.13,how are you doing today,how are you doing,0
+123.39,129.57,what'd you study at school,i studied music um vocal performance i studied music technology things like that,2
+302.21,305.57,do you travel a lot,i'd like to travel more i like to travel by car a lot um,12
+306.29,307.85,do you travel a lot,i mean my idea of,12
+309.74,312.81,do you travel a lot,like having a birthday celebration would be to go on a road trip,12
+313.63,315.84,do you travel a lot,and i like to travel more um,12
+317.15,323.04,do you travel a lot,i would love to travel for work things or whatever but i don't get as much of an opportunity as i would like to to travel,12
+626.71,629.18,when was the last time you argued with someone and what was it about,uh the last time i argued with somebody,5
+630.99,631.21,when was the last time you argued with someone and what was it about,like,5
+632.4,637.41,when was the last time you argued with someone and what was it about,person <per> like a person <per> like a family member or an outsider or somebody not in my,5
+886.04,892.7,is there anything you regret,i regret not taking care of myself in the last year of my mother's life because i think it may have clouded some of my decisions,3
+893.56,903.46,is there anything you regret,now i do have underlying conditions and everybody in my family is diabetic and i didn't take care of that when she was the last year of her life 'cause i was too busy wanting to get her home,3
+904.14,905.71,is there anything you regret,my focus was to get her home,3
+1088.5,1090.1,what advice would you give to yourself ten or twenty years ago,ten or twenty years ago,6
+1095.9,1103.27,what advice would you give to yourself ten or twenty years ago,probably to have been more assertive in starting my own life because i wound taking care of my mother i mean she,6
+1104.28,1111.9,what advice would you give to yourself ten or twenty years ago,got sick literally the weekend i graduated from college <laughter> and i had a job lined up and i had to pull out of that because she needed me to take care of her,6
+1112.41,1116.25,what advice would you give to yourself ten or twenty years ago,and i think i would've been more aggressive about starting my own life getting a job outside ,6
+1117.04,1128.92,what advice would you give to yourself ten or twenty years ago,the house in addition to caring for her getting uh my own job history my own credit history thing like things like that built up instead of becoming just totally her daughter for about ten years,6
+1165.61,1165.91,have you ever been diagnosed with ptsd,no,14
+1169.12,1174.12,have you been diagnosed with depression,no but probably 'cause i haven't gone to a doctor about it <laughter> 'cause i don't wanna know,4
+1175.84,1176.68,have you been diagnosed with depression,and i mean it's not,4
+1177.42,1183.42,have you been diagnosed with depression,i know there've been times in my life where i've been severely depressed and it's usually circumstances,4
+1184.24,1190.23,have you been diagnosed with depression,and had to pull myself out of it but i'd rather pull myself out of it before resorting to treatment,4
+1191.36,1192.13,have you been diagnosed with depression,and of it gets <ge>,4
+1490.94,1491.98,how have you been feeling lately,uh very ,13
+1492.74,1496.78,how have you been feeling lately,anxious and nervous and i mean what if ,13
+1498.04,1499.17,how have you been feeling lately,i don't find ,13
+1500.56,1506.7,how have you been feeling lately,enough you know enough work to be able to pay my rent or whatever what if um ,13
+1508.52,1509.94,how have you been feeling lately,you know what what if i can't  ,13
+1511.62,1511.99,how have you been feeling lately,keep,13
+1513.19,1521.03,how have you been feeling lately,a semblance of stability in my life and it it's actually hard work to be stable <laughter> and i know it's hard work to be stable but ,13
+1522.31,1525.1,how have you been feeling lately,what you know it's just eh a lot of what ifs ,13
+1525.93,1532.2,how have you been feeling lately,and and i don't think it's things that haven't happened and it's stupid and pointless to worry about things that haven't happened and i know that ,13
+1532.76,1534.84,how have you been feeling lately,but it still happens <ha> it still creeps in ,13
+1535.87,1537.33,how have you been feeling lately,so that's actually ,13
+1538.62,1540.19,how have you been feeling lately,a source of ,13
+1541.93,1542.69,how have you been feeling lately,anxiety ,13
+1543.93,1550.67,how have you been feeling lately,but then you try to let the anxiety go by getting things done figuring things out making a solid plan and going for it ,13
+1551.97,1553.66,how have you been feeling lately,but i i i know it it's a cycle,13
+1609.02,1610.94,when was the last time you felt really happy,the last time i felt really happy,8
+1613.2,1613.84,when was the last time you felt really happy,i don't know,8
+1614.66,1614.99,when was the last time you felt really happy,zz,8
+1622.65,1622.87,when was the last time you felt really happy,i ,8
+1626.35,1631.21,when was the last time you felt really happy,huh <laughter> that's a good question that actually <ac> that actually surprisingly stumped me ,8
+1632.17,1638.09,when was the last time you felt really happy,because i do feel happy sometimes sometimes not so much sometimes just kinda,8
+1638.89,1640.1,when was the last time you felt really happy,eh in the middle,8
+1642.89,1646.75,when was the last time you felt really happy,really like overjoyously happy i don't know ,8
+1648.46,1652.78,when was the last time you felt really happy,i i'm not i can't think of <o> of when that happened,8
+1663.93,1665.14,how would your best friend describe you,i don't know you don't know ,10
+1666.08,1668.33,how would your best friend describe you,perceptions of other people i mean ,10
+1671.34,1673.3,how would your best friend describe you,probably as somebody who ,10
+1676.55,1681.15,how would your best friend describe you,oddly enough somebody who is laid back and you know ,10
+1682.48,1685.46,how would your best friend describe you,handles things as they come but i don't see myself as that  ,10
+1685.99,1686.32,how would your best friend describe you,at all,10
+1687.58,1688.12,how would your best friend describe you,and it's a it,10
+1723.6,1729.67,what are you most proud of in your life,that i'm doing basically what i want with my life which even though it's not all easy it's not ,7
+1732.65,1740.61,what are you most proud of in your life,you know i'm not financially well off or anything it's still a lot more than a lot of people can say about their lives 'cause i have an aunt that i really don't talk to ,7
+1741.24,1745.25,what are you most proud of in your life,who and the reason why i don't talk to her is because she's always miserable i mean she's got,7
+1746.19,1748.39,what are you most proud of in your life,a career that she ,7
+1749.79,1751.79,what are you most proud of in your life,it's more of a job that she fell into ,7
+1752.74,1759.27,what are you most proud of in your life,'cause my older aunt uh loves animals but didn't wanna be a veterinarian so she became a dog groomer ,7

@@ -1,0 +1,22 @@
+start_time,stop_time,question,value,topic_idx
+87.19,87.84,how are you doing today,i'm fine,0
+180.77,182.36,what's your dream job,uh maybe running a company ,11
+187.85,188.66,what'd you study at school,politics ,2
+210.9,212.76,how are you at controlling your temper,um it depends ,1
+232.67,233.51,when was the last time you argued with someone and what was it about,ex-girlfriend ,5
+235.87,236.79,when was the last time you argued with someone and what was it about,and i don't remember ,5
+259.91,260.3,is there anything you regret,no ,3
+266.47,268.62,what advice would you give to yourself ten or twenty years ago,be a little more patient with her ,6
+320.61,321.96,do you travel a lot,uh used to ,12
+391.34,392.82,how easy is it for you to get a good night's sleep,uh that's a good question ,9
+394.74,395.26,how easy is it for you to get a good night's sleep,depends ,9
+427.98,428.36,how have you been feeling lately,okay ,13
+457.76,458.11,have you ever been diagnosed with ptsd,nope,14
+461.03,461.37,have you been diagnosed with depression,nope ,4
+471.58,472.83,how would your best friend describe you,whirlwind i guess ,10
+476.51,477.04,how would your best friend describe you,a doer,10
+494.22,496.11,what are you most proud of in your life,mm achievements and goals,7
+496.89,497.68,what are you most proud of in your life,accomplishments,7
+639.33,640.91,when was the last time you felt really happy,i don't know um  ,8
+647.07,657.31,when was the last time you felt really happy,maybe when i was flying last flying in a private plane i guess um you know there's there's no reason to get super super super happy unless you i guess if you're married hopefully that make you super happy,8
+657.89,661.54,when was the last time you felt really happy,but no i'm pretty even keel you know what i'm saying i stay <st> i stay pretty level,8

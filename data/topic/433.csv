@@ -1,0 +1,36 @@
+start_time,stop_time,question,value,topic_idx
+74.42,75.18,how are you doing today,i'm doing good,0
+114.91,116.68,do you travel a lot,i've traveled in the past um,12
+117.3,118.59,do you travel a lot,i don't really go out of state,12
+136.12,138.45,what'd you study at school,i studied automotive technology,2
+162.88,164.76,what's your dream job,my dream job would probably be,11
+166.28,167.46,what's your dream job,probably to own my own,11
+168.43,170.51,what's your dream job,automotive shop or,11
+171.21,172.37,what's your dream job,to own a barber shop,11
+173.35,175.7,what's your dream job,or to just basically be a,11
+176.84,178.21,what's your dream job,probably a master welder,11
+238.87,240.46,how are you at controlling your temper,uh fairly easy about it,1
+240.96,241.61,how are you at controlling your temper,i don't really,1
+242.375,246.075,how are you at controlling your temper,let go get let my bad side get to my emotions,1
+253.07,255.36,when was the last time you argued with someone and what was it about,probably earlier today about with my girlfriend,5
+255.96,258.76,when was the last time you argued with someone and what was it about,or wife basically about where we gonna go eat,5
+422.12,426.04,how easy is it for you to get a good night's sleep,it's fairly easy except <exc> if as long as i've had a good dinner,9
+426.85,429.58,how easy is it for you to get a good night's sleep,early on in my day fairly would go to sleep pretty good,9
+446.75,449.04,how have you been feeling lately,xxx pretty relaxed calm,13
+472.57,474.02,have you ever been diagnosed with ptsd,no i have not being diagnosed,14
+477.76,479.59,have you been diagnosed with depression,no i have not been diagnosed by depression,4
+484.84,486.85,when was the last time you felt really happy,um earlier today when i had some food,8
+570.77,572.67,is there anything you regret,uh no not majorly,3
+573.42,575.31,is there anything you regret,just things that i could've thought i could've done,3
+576.05,577.33,is there anything you regret,better or,3
+578.79,580.05,is there anything you regret,or just a little differently,3
+605.15,605.44,what advice would you give to yourself ten or twenty years ago,yeah,6
+609.79,610.8,what advice would you give to yourself ten or twenty years ago,i would've basically,6
+612.55,615.93,what advice would you give to yourself ten or twenty years ago,just after you realize it the first time try not to do it again,6
+616.7,618.36,what advice would you give to yourself ten or twenty years ago,so the same mistake doesn't happen,6
+724.55,725.26,how would your best friend describe you,just uh,10
+726.21,727.38,how would your best friend describe you,fun cool,10
+728.71,730.94,how would your best friend describe you,easygoing good attitude,10
+732.29,734.77,how would your best friend describe you,um loyal <l> xxx loyal,10
+761.0,761.84,what are you most proud of in your life,basically,7
+763.58,767.06,what are you most proud of in your life,everything i've done for myself from when i graduated high school up to now,7

@@ -1,0 +1,67 @@
+start_time,stop_time,question,value,topic_idx
+54.78,55.3,how are you doing today,i'm okay ,0
+89.16,89.86,do you travel a lot,just a little ,12
+169.7,172.29,how would your best friend describe you,probably outgoing creative,10
+176.57,177.33,how would your best friend describe you,talented ,10
+178.14,180.86,how would your best friend describe you,um fun trustworthy ,10
+187.73,190.22,what'd you study at school,i studied language um ,2
+191.11,193.66,what'd you study at school,and um physics ,2
+194.42,195.59,what'd you study at school,and um ,2
+197.22,197.81,what'd you study at school,math,2
+333.57,334.37,how easy is it for you to get a good night's sleep,it isn't ,9
+334.79,336.54,how easy is it for you to get a good night's sleep,um i tend to think a lot ,9
+337.21,339.02,how easy is it for you to get a good night's sleep,um about the things that stress me out ,9
+339.65,342.81,how easy is it for you to get a good night's sleep,um i've been through a lot of a lot of stuff so um ,9
+345.41,353.18,how easy is it for you to get a good night's sleep,yeah so i i don't i don't i don't sleep very well at night and if i do fall asleep i wake up all through the night usually with some kind of anxiety attacks ,9
+493.51,493.92,have you ever been diagnosed with ptsd,yes ,14
+597.21,602.78,how have you been feeling lately,<sigh> stressed um uh lately i've been really sad and i don't know why  ,13
+605.87,608.47,how have you been feeling lately,but like i said i've been trying to combat that by um  ,13
+609.1,610.39,how have you been feeling lately,keeping myself busy ,13
+621.99,623.08,when was the last time you felt really happy,actually um ,8
+623.77,624.42,when was the last time you felt really happy,i'm kind of,8
+625.45,626.54,when was the last time you felt really happy,a couple days ago ,8
+629.28,631.95,when was the last time you felt really happy,i was actually really happy and i was genuinely happy  ,8
+632.87,634.7,when was the last time you felt really happy,um but then i went back to ,8
+635.42,638.33,when was the last time you felt really happy,being you know going back to feeling miserable ,8
+639.84,640.31,when was the last time you felt really happy,so,8
+684.17,685.14,what are you most proud of in your life,oh geez,7
+690.34,692.55,what are you most proud of in your life,i've had so many years of just ,7
+694.25,696.28,what are you most proud of in your life,just bad just a lot of bad ,7
+697.13,699.9,what are you most proud of in your life,that it there has it's been a long time ,7
+700.36,702.19,what are you most proud of in your life,since i've been proud of anything ,7
+702.74,708.66,what are you most proud of in your life,i guess if anything it's my ability to survive through all the hardships i've been through ,7
+751.95,754.49,is there anything you regret,ugh <sigh> so much um ,3
+756.2,757.25,is there anything you regret,my last marriage,3
+758.18,760.56,is there anything you regret,um not getting out when i should have ,3
+764.69,765.92,is there anything you regret,and uh just,3
+768.27,769.11,is there anything you regret,i regret a lot,3
+777.22,777.87,what advice would you give to yourself ten or twenty years ago,<sigh>,6
+778.45,782.0,what advice would you give to yourself ten or twenty years ago,um the any situation that would've had a red flag um ,6
+783.63,787.65,what advice would you give to yourself ten or twenty years ago,eh just get out of it you know eh some things just don't work,6
+788.31,789.06,what advice would you give to yourself ten or twenty years ago,and um ,6
+790.8,794.42,what advice would you give to yourself ten or twenty years ago,no matter how hard you try no matter how much you put into it so um ,6
+795.26,798.02,what advice would you give to yourself ten or twenty years ago,i i would tell myself um to um ,6
+799.38,800.8,what advice would you give to yourself ten or twenty years ago,that it's not selfish ,6
+801.18,802.97,what advice would you give to yourself ten or twenty years ago,to let go of a bad situation ,6
+803.93,809.61,what advice would you give to yourself ten or twenty years ago,and um not everybody can be helped so sometimes you just gotta live for yourself and help yourself ,6
+915.78,916.34,how are you at controlling your temper,mm,1
+918.8,921.65,how are you at controlling your temper,i try not to get angry um ,1
+922.68,924.87,how are you at controlling your temper,because i have a really bad temper,1
+925.54,926.45,how are you at controlling your temper,and it um ,1
+928.65,931.15,how are you at controlling your temper,and it can get outta hand so um ,1
+932.03,935.62,how are you at controlling your temper,what i do is i i <laughter> something gets me so mad i tend to go and take a nap,1
+936.15,943.95,how are you at controlling your temper, um <laughter> if i'm not in that situation where i can just go and take a nap um i usually just walk away from the situation and i try to clear my mind,1
+944.32,945.23,how are you at controlling your temper,and come back to it ,1
+952.63,955.84,when was the last time you argued with someone and what was it about,it was a couple days ago it was actually with my mother um ,5
+956.48,957.71,when was the last time you argued with someone and what was it about,it was about um ,5
+959.88,962.0,when was the last time you argued with someone and what was it about,actually she thought that i had taken a shirt from her ,5
+962.72,966.93,when was the last time you argued with someone and what was it about,and um she was screaming and yelling at me and um ,5
+967.99,972.28,when was the last time you argued with someone and what was it about,i was i was tired um i was it was late and um ,5
+972.93,980.74,when was the last time you argued with someone and what was it about,i started to yell at <a> back at her you know because i was hurt that she would accuse me of something so petty um ,5
+983.44,984.66,when was the last time you argued with someone and what was it about,and you <yo> <sigh>,5
+986.18,996.07,when was the last time you argued with someone and what was it about,it's uh going back to my past you know when i was younger and you know i didn't care about you know people's things and i would just kinda take and do whatever i wanted to and i'm not i'm so far from that person  ,5
+996.53,1002.02,when was the last time you argued with someone and what was it about,um and i it it hurt me so i got mad and i and i started to yell and argue ,5
+1003.2,1005.22,when was the last time you argued with someone and what was it about,mm kinda petty and stupid but ,5
+1005.98,1007.71,when was the last time you argued with someone and what was it about,at the time it it seemed ,5
+1008.24,1009.01,when was the last time you argued with someone and what was it about,it seemed uh ,5
+1009.52,1009.98,when was the last time you argued with someone and what was it about,viable ,5

@@ -1,0 +1,31 @@
+start_time,stop_time,question,value,topic_idx
+50.38,50.97,how are you doing today,i'm okay ,0
+119.08,119.53,what'd you study at school,acting,2
+120.44,120.96,what'd you study at school,theater,2
+251.18,253.96,how are you at controlling your temper,pretty good pretty good i don't have too much of a temper ,1
+261.17,263.59,when was the last time you argued with someone and what was it about,like a real argument or like a debate ,5
+297.68,299.55,when was the last time you felt really happy,the last time i felt really happy ,8
+300.85,301.88,when was the last time you felt really happy,was,8
+303.61,304.65,when was the last time you felt really happy,like really happy,8
+305.95,308.83,when was the last time you felt really happy,probably hanging out hanging out with friends the other night i had a good time,8
+334.08,343.06,how would your best friend describe you,my best friend would describe me as an open book she often makes fun of me for like just telling everyone everything um she would describe me as  ,10
+344.35,345.47,how would your best friend describe you,uh compassionate,10
+346.4,347.11,how would your best friend describe you,and,10
+347.72,350.68,how would your best friend describe you,uh having a a strong sense of who i am ,10
+352.15,352.64,how would your best friend describe you,i think,10
+390.96,392.31,have you ever been diagnosed with ptsd,no but i think i had it ,14
+393.73,394.69,have you ever been diagnosed with ptsd,but i never went to a doctor ,14
+464.94,465.32,have you been diagnosed with depression,no,4
+469.37,472.81,how have you been feeling lately,well i mean my dad is sick so not great ,13
+520.36,521.59,how easy is it for you to get a good night's sleep,easy very easy ,9
+564.2,564.55,do you travel a lot,yeah ,12
+665.92,668.03,is there anything you regret,uh small things sure ,3
+704.06,704.87,what advice would you give to yourself ten or twenty years ago,hmm,6
+707.01,708.29,what advice would you give to yourself ten or twenty years ago,stand up for yourself ,6
+766.53,767.16,what are you most proud of in your life,<sigh>,7
+769.62,771.17,what are you most proud of in your life,that's a good question uh ,7
+772.91,774.11,what are you most proud of in your life,my friends and family ,7
+775.9,776.88,what are you most proud of in your life,and uh ,7
+778.9,779.93,what are you most proud of in your life,i my talents,7
+780.82,781.44,what are you most proud of in your life,i would say ,7
+782.92,783.26,what are you most proud of in your life,yeah ,7

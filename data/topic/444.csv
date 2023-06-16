@@ -1,0 +1,113 @@
+start_time,stop_time,question,value,topic_idx
+58.5,59.6,how are you doing today,i'm doing very well today,0
+151.32,152.05,do you travel a lot,<laughter>,12
+153.68,156.613,do you travel a lot,um i have traveled quite a bit i was in the peace corps,12
+157.13,159.61,do you travel a lot,and i was um <tisk> in south america,12
+159.98,163.143,do you travel a lot,i was in paraguay for three years and i traveled all through south america,12
+163.7,167.013,do you travel a lot,brazil peru uh peru chile bolivia,12
+167.5,169.053,do you travel a lot,um i also spent a year in london,12
+169.44,170.52,do you travel a lot,traveled all through europe,12
+171.16,173.223,do you travel a lot,and i used to go to canada often,12
+174.06,176.15,do you travel a lot,uh i'd love to get to asia one of these days,12
+242.74,243.3,what'd you study at school,philosophy,2
+244.16,245.5,what'd you study at school,i have my degree in philosophy,2
+246.05,247.07,what'd you study at school,i minored in art,2
+295.04,298.46,what's your dream job,i'm i'm sorry my alarm's going off on my phone it'll die in a second,11
+298.77,299.42,what's your dream job,okay i'm sorry,11
+300.81,301.62,what's your dream job,it's still going,11
+303.84,306.16,what's your dream job,sorry i turned off the phone but i forgot to turn off the alarm,11
+315.69,316.76,what's your dream job,my dream job,11
+317.5,318.62,what's your dream job,um <sigh >,11
+318.95,319.6,what's your dream job,gosh,11
+320.67,322.52,what's your dream job,um writing,11
+324.97,327.17,what's your dream job,i've done a few um,11
+327.58,330.96,what's your dream job,uh scripts uh some screeenplays with a friend of mine,11
+331.57,333.86,what's your dream job,um but i don't really wanna do the hollywood thing,11
+334.37,336.73,what's your dream job,um <tisk> but writing and teaching,11
+338.71,341.37,what's your dream job,and traveling if i could do that overseas,11
+427.9,434.79,how are you at controlling your temper,<sigh> i wish i could say i was good at it but usually i um i tend to have outbursts,1
+435.24,436.28,how are you at controlling your temper,every once in a while,1
+436.83,438.72,how are you at controlling your temper,um when things are getting too chaotic,1
+439.23,440.85,how are you at controlling your temper,at my house um,1
+441.17,443.68,how are you at controlling your temper,and i'm feeling very underappreciated,1
+444.38,444.86,how are you at controlling your temper,i will,1
+445.5,446.02,how are you at controlling your temper,have a,1
+446.61,448.19,how are you at controlling your temper,burst of anger,1
+894.5,896.43,how easy is it for you to get a good night's sleep,i'm a been an insomniac all my life,9
+897.11,902.63,how easy is it for you to get a good night's sleep,i remember as a child laying in my bed watching the stars go across the my bedroom window and,9
+903.32,909.39,how easy is it for you to get a good night's sleep,um i haven't slept well for a long time um but i realize that if i exercise,9
+910.1,914.88,how easy is it for you to get a good night's sleep,and i do something with my brain intellectually during the day,9
+915.39,918.91,how easy is it for you to get a good night's sleep,i have to be physically tired and intellectually tired,9
+919.46,920.58,how easy is it for you to get a good night's sleep,to sleep well,9
+921.25,923.25,how easy is it for you to get a good night's sleep,um and that's sometimes that's hard to do,9
+923.88,927.49,how easy is it for you to get a good night's sleep,um and so a lot of times i stay <s> i stay awake reading,9
+927.98,928.97,how easy is it for you to get a good night's sleep,i'll read 'til midnight,9
+929.49,931.25,how easy is it for you to get a good night's sleep,um and then i'll try and go to sleep,9
+931.56,936.66,how easy is it for you to get a good night's sleep,um and usually i won't get back up even if i i'll wake up at three again,9
+937.02,939.35,how easy is it for you to get a good night's sleep,and things of that sort but i'll try to go back to sleep,9
+943.02,944.74,how have you been feeling lately,yesterday i didn't feel so good i was,13
+945.43,949.99,how have you been feeling lately,um i think a lot of it has to depend on the weather  and it was all cloudy and grey yesterday,13
+950.51,953.31,how have you been feeling lately,um 'cause i planned on planned on working on my garden,13
+972.86,973.29,have you ever been diagnosed with ptsd,so,14
+974.9,975.29,have you ever been diagnosed with ptsd,no,14
+977.73,978.1,have you been diagnosed with depression,no,4
+987.71,990.42,when was the last time you felt really happy,i don't know i just got a new mattress actually that,8
+991.11,992.27,when was the last time you felt really happy,hasn't really helped me sleep,8
+992.89,993.53,when was the last time you felt really happy,but um,8
+994.06,997.46,when was the last time you felt really happy,it was really good because i needed one for a really long time,8
+997.93,1004.37,when was the last time you felt really happy,and it i was just kind of excited about being delivered <deli> it delivered and and set up and and that sounds like sort of mundane,8
+1004.89,1006.22,when was the last time you felt really happy,um but it was,8
+1006.54,1007.38,when was the last time you felt really happy,you know just like,8
+1007.74,1009.98,when was the last time you felt really happy,i'm finally doing something positive 'cause it's,8
+1010.4,1013.45,when was the last time you felt really happy,it's something that i put off doing and put off doing and put off doing,8
+1013.76,1014.85,when was the last time you felt really happy,and it was like finally,8
+1015.52,1020.95,when was the last time you felt really happy,uh there and concrete and it's like okay i've done this task that i can check off my list,8
+1021.65,1026.28,when was the last time you felt really happy,um but also i took the kids camping over um spring break and,8
+1026.75,1035.82,when was the last time you felt really happy,uh we just had a fabulous time and we sat around telling stories and  um around the camp fire and making s'mores and things like that and those kind of times make me very happy,8
+1041.0,1045.77,how would your best friend describe you,<laughter> i don't know um,10
+1046.94,1047.63,how would your best friend describe you,i think she,10
+1048.57,1049.74,how would your best friend describe you,believes that i'm,10
+1050.02,1050.59,how would your best friend describe you,uh,10
+1052.13,1052.45,how would your best friend describe you,uh,10
+1053.34,1056.53,how would your best friend describe you,more intellectual and smarter than i think that i am,10
+1057.0,1060.15,how would your best friend describe you,at times so she comes to me with a lot of um issues,10
+1060.81,1061.26,how would your best friend describe you,uh,10
+1061.67,1066.04,how would your best friend describe you,she always she always solicits advice from me she thinks i give her good advice,10
+1066.71,1069.95,how would your best friend describe you,um and when she doesn't know what to do she'll she'll she'll ask me,10
+1070.45,1074.05,how would your best friend describe you,um and then sometimes she just calls me to run things by,10
+1074.52,1077.66,how would your best friend describe you,uh or just like to complain about because i'm sympathetic,10
+1135.57,1138.32,is there anything you regret,oh gosh <laughter> um,3
+1140.4,1144.24,is there anything you regret,not following through on the opportunities i had when,3
+1144.6,1149.4,is there anything you regret,i got out of the peace <p> peace corps there was a lot of things that i could go into i could've gone to get my master's degree,3
+1150.84,1153.94,is there anything you regret,with on a grant and things of that sort um,3
+1154.36,1156.45,is there anything you regret,but instead i got pregnant and got married,3
+1157.0,1161.41,is there anything you regret,and i had a wonderful job that i really liked and really enjoyed,3
+1162.09,1165.54,is there anything you regret,um but then when i got pregnant the second time it was right at a time,3
+1166.11,1168.4,is there anything you regret,where i had to fight for a directorship,3
+1169.15,1176.67,is there anything you regret,and i realized my limitations where i i couldn't be pregnant and have this child and and do everything i needed to do to get a directorship,3
+1177.33,1180.01,is there anything you regret,and so i really wish so i resigned,3
+1181.78,1183.29,is there anything you regret,and i wish i had stuck with that,3
+1185.12,1189.73,is there anything you regret,'cause then i would have a have had a much more fulfilling and rewarding and,3
+1190.42,1191.65,is there anything you regret,solid career,3
+1202.3,1202.82,what advice would you give to yourself ten or twenty years ago,not,6
+1203.34,1210.2,what advice would you give to yourself ten or twenty years ago,base decisions on emotions sometimes i um and not i i've had some really bad bosses,6
+1210.9,1213.74,what advice would you give to yourself ten or twenty years ago,um the jobs were wonderful,6
+1215.48,1215.83,what advice would you give to yourself ten or twenty years ago,but,6
+1216.26,1218.5,what advice would you give to yourself ten or twenty years ago,my ego got in the way,6
+1219.61,1225.1,what advice would you give to yourself ten or twenty years ago,and i would've told myself to let go of that aspect of the job let go of the,6
+1225.44,1225.71,what advice would you give to yourself ten or twenty years ago,the,6
+1226.25,1227.1,what advice would you give to yourself ten or twenty years ago,egotistical,6
+1227.7,1229.21,what advice would you give to yourself ten or twenty years ago,reactions that i had,6
+1230.0,1235.28,what advice would you give to yourself ten or twenty years ago,to the bosses and concentrate on the job and doing that really well,6
+1240.86,1242.59,what are you most proud of in your life,um my children actually,7
+1243.08,1247.97,what are you most proud of in your life,um and also uh my peace corps experience was just phenomenal,7
+1248.65,1250.08,what are you most proud of in your life,um and,7
+1250.33,1254.29,what are you most proud of in your life,uh people are actually really interested in that and they were like an awe that,7
+1254.93,1262.18,what are you most proud of in your life,they actually know someone who actually did that um so that that's i'm yeah i always when i was a little girl,7
+1262.6,1267.01,what are you most proud of in your life,my neighbor was one of the first people to go into the peace corps when it first started,7
+1267.19,1271.08,what are you most proud of in your life,and i always said oh i wanna do that one day i wanna do that one day i wanna do that one day,7
+1271.5,1275.13,what are you most proud of in your life,and then finally i got to the point where so i'd i either had to shut up or do it,7
+1275.73,1277.13,what are you most proud of in your life,um so that's,7
+1278.2,1278.97,what are you most proud of in your life,that was,7
+1279.88,1280.7,what are you most proud of in your life,one of my prouder,7
+1281.14,1281.89,what are you most proud of in your life,experiences,7

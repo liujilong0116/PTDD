@@ -1,0 +1,27 @@
+start_time,stop_time,question,value,topic_idx
+54.02,54.26,how are you doing today,great,0
+107.18,108.24,what's your dream job,my dream job,11
+109.43,112.78,what's your dream job,is uh an actor on an h_b_o series,11
+124.29,124.86,do you travel a lot,moderately,12
+174.44,174.88,how are you at controlling your temper,pretty good,1
+181.86,184.73,when was the last time you argued with someone and what was it about,uh wow it was maybe about two months ago,5
+185.84,189.265,when was the last time you argued with someone and what was it about,my brother and i were arguing over rent payments,5
+306.47,307.13,how easy is it for you to get a good night's sleep,it's pretty easy,9
+329.62,332.28,how have you been feeling lately,as of late i've been feeling pretty well can't complain,13
+347.5,347.73,have you ever been diagnosed with ptsd,no,14
+350.4,350.68,have you been diagnosed with depression,no,4
+354.98,357.61,when was the last time you felt really happy,last time i felt really really happy,8
+359.59,360.85,when was the last time you felt really happy,uh,8
+362.22,364.4,when was the last time you felt really happy,i had a real nice date about a month ago,8
+365.38,368.57,when was the last time you felt really happy,and we had a good time and i was real happy that day and the day after,8
+423.5,423.75,is there anything you regret,no,3
+428.44,434.68,what advice would you give to yourself ten or twenty years ago,<deep breath> ten or twenty years ago what advice would i give myself i would say um,6
+438.34,440.19,what advice would you give to yourself ten or twenty years ago,never give up study hard,6
+440.94,441.65,what advice would you give to yourself ten or twenty years ago,save money,6
+491.313,493.893,how would your best friend describe you,he would say that uh very warm,10
+494.829,496.959,how would your best friend describe you,i'm a very caring loving,10
+497.952,498.525,how would your best friend describe you,genuine,10
+499.845,500.455,how would your best friend describe you,friend,10
+545.017,546.708,what are you most proud of in your life,most proud of uh,7
+549.907,554.607,what are you most proud of in your life,scrubbed_entry,7
+555.733,559.49,what are you most proud of in your life,was a series regular on the wire couple years ago in the last season,7

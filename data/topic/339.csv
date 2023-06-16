@@ -1,0 +1,25 @@
+start_time,stop_time,question,value,topic_idx
+50.436,51.55,how are you doing today,um i'm okay,0
+115.82,116.79,do you travel a lot,no i don't,12
+121.327,123.49,what'd you study at school,i was an english major in college,2
+131.65,134.46,what's your dream job,um i'd like to be a recording singer,11
+262.64,263.34,how are you at controlling your temper,pretty good,1
+272.16,276.81,when was the last time you argued with someone and what was it about,mm i may have had an argument a few weeks ago,5
+277.65,283.8,when was the last time you argued with someone and what was it about,um just about timeliness like meeting on time and showing up on time,5
+294.599,294.86,is there anything you regret,no,3
+300.47,305.01,what advice would you give to yourself ten or twenty years ago,um to just be cautious of people's intentions,6
+325.64,329.03,how would your best friend describe you,um a good listener patient,10
+331.2,332.6,how would your best friend describe you,fun loving,10
+334.24,335.17,how would your best friend describe you,generous,10
+339.83,341.89,how would your best friend describe you,depressed sometimes,10
+345.28,348.12,how would your best friend describe you,but generally a good person,10
+358.472,359.18,have you ever been diagnosed with ptsd,yes,14
+552.573,559.05,how easy is it for you to get a good night's sleep,it depends um if i'm really busy during the week and have a lot of things to do,9
+560.14,568.91,how easy is it for you to get a good night's sleep,i often try to plan things and if i'm planning things it affects my sleep i might wake up in the middle of the night so,9
+570.07,572.28,how easy is it for you to get a good night's sleep,sometimes it's easy and sometimes it isn't,9
+587.06,592.1,how have you been feeling lately,um i was feeling anxious but now i'm calmer,13
+638.174,639.41,when was the last time you felt really happy,maybe in october,8
+662.898,667.9,what are you most proud of in your life,um i'm proud that i'm able to um ,7
+668.27,670.43,what are you most proud of in your life,adjust to different situations,7
+671.11,679.26,what are you most proud of in your life,um the older i've gotten the more adaptable i am to <t> in different environments in different situations,7
+679.88,686.26,what are you most proud of in your life,and um i've learned how to be more resourceful so i'm proud of that,7

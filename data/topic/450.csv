@@ -1,0 +1,77 @@
+start_time,stop_time,question,value,topic_idx
+53.68,55.83,how are you doing today,i'm doing well reasonably well,0
+112.755,114.045,do you travel a lot,i haven't seen your shoes,12
+114.78,116.1,do you travel a lot,well i haven't seen your shoes,12
+117.145,119.125,do you travel a lot,but uh i have traveled yes,12
+260.9,262.17,how are you at controlling your temper,depends on the situation,1
+268.77,271.03,when was the last time you argued with someone and what was it about,hmm <sigh>,5
+274.58,276.63,when was the last time you argued with someone and what was it about,i argued with,5
+277.84,280.22,when was the last time you argued with someone and what was it about,the los angeles parking people,5
+280.875,287.815,when was the last time you argued with someone and what was it about,over a ticket  that i got that i didn't agree with and has morphed into a horrible situation,5
+288.688,290.278,when was the last time you argued with someone and what was it about,and i,5
+291.58,293.29,when was the last time you argued with someone and what was it about,ended the conversation with <wit>,5
+294.41,296.85,when was the last time you argued with someone and what was it about,accepting the situation as it was and,5
+297.981,302.455,when was the last time you argued with someone and what was it about,not really xxx wanting to deal with it sort of like fuck you,5
+423.359,424.199,what'd you study at school,xxx uh when,2
+441.187,442.477,what's your dream job,my dream job,11
+446.122,447.562,what's your dream job,my dream job,11
+448.909,449.761,what's your dream job,is,11
+451.736,454.954,what's your dream job,to not work that's my dream job <laughter>,11
+707.3,708.09,how easy is it for you to get a good night's sleep,it's not,9
+739.909,747.093,how have you been feeling lately,um i'm a little depressed uh i've been a little depressed i haven't been working as much and um,13
+748.275,755.066,how have you been feeling lately,i um you know i have pain in the mornings and in the evening <eveni> i have pain thorughout the day in my from my with back,13
+755.631,761.021,how have you been feeling lately,and it uh is a little depressing you know i get depressed also um,13
+761.832,763.282,how have you been feeling lately,you know just thinking about,13
+763.991,766.201,how have you been feeling lately,my business that i sold and,13
+766.89,771.034,how have you been feeling lately,you know where i would've been if i hadn't have done that and,13
+784.709,785.419,have you been diagnosed with depression,yes,4
+897.754,899.034,have you ever been diagnosed with ptsd,i believe so,14
+899.494,901.364,have you ever been diagnosed with ptsd,uh yes i was,14
+992.5,993.53,when was the last time you felt really happy,hmm,8
+997.3,1000.072,when was the last time you felt really happy,about a week ago i was on a hike,8
+1000.754,1004.984,when was the last time you felt really happy,eh up in malibu and uh at this beautiful labyrinth,8
+1005.7,1011.854,when was the last time you felt really happy,that looked over the pacific ocean and we i was with a friend and we were having lunch,8
+1012.781,1014.715,when was the last time you felt really happy,and i laid down on the grass,8
+1015.218,1016.318,when was the last time you felt really happy,and took a nap,8
+1016.834,1021.494,when was the last time you felt really happy,and i felt content i was happy at that moment at that,8
+1022.148,1022.658,when was the last time you felt really happy,moment,8
+1023.195,1025.105,when was the last time you felt really happy,that time about a week ago,8
+1029.382,1029.822,how would your best friend describe you,hmm,10
+1031.796,1033.496,how would your best friend describe you,honest sincere,10
+1035.475,1036.285,how would your best friend describe you,smart,10
+1042.011,1042.851,how would your best friend describe you,caring,10
+1048.475,1048.802,how would your best friend describe you,<sniffle>,10
+1049.609,1050.2,how would your best friend describe you,smart,10
+1077.815,1082.725,is there anything you regret,uh yeah i have regrets in life you know everything works out,3
+1083.49,1084.719,is there anything you regret,so um,3
+1085.516,1090.356,is there anything you regret,you know if i could change the past i would've never dropped out of school,3
+1091.0,1096.3,is there anything you regret,when i did a long time ago i mean i've since gone back and completed lots of stuff,3
+1097.209,1100.827,is there anything you regret,um i probably would've gone into the military,3
+1101.454,1104.263,is there anything you regret,i think i was going to do that in my early twenties,3
+1104.954,1106.36,is there anything you regret,i'm fifty five now,3
+1107.037,1109.607,is there anything you regret,um i sort of regret not doing that,3
+1110.249,1112.209,is there anything you regret,um at that time,3
+1113.88,1116.19,is there anything you regret,um i regret uh,3
+1118.436,1120.034,is there anything you regret,selling my business,3
+1121.517,1122.627,is there anything you regret,i regret,3
+1124.381,1130.781,is there anything you regret,and of course i can't control this but i regret that my father died when i was so young and,3
+1132.963,1136.432,is there anything you regret,he never really got to know me and i never really got to know him,3
+1137.634,1139.334,is there anything you regret,i regret uh,3
+1141.727,1143.581,is there anything you regret,i regret not seeing,3
+1144.945,1147.658,is there anything you regret,my grandmother enough before she'd passed away,3
+1149.052,1150.682,is there anything you regret,i regret uh,3
+1155.347,1162.547,is there anything you regret,i mean those are the things that i can think of right now not putting away for retirement i regret when i had the money to do it,3
+1177.081,1177.761,what advice would you give to yourself ten or twenty years ago,stick with it,6
+1179.381,1183.974,what advice would you give to yourself ten or twenty years ago,just stick with it because in order to get out you have to go through,6
+1184.902,1185.562,what advice would you give to yourself ten or twenty years ago,and,6
+1186.845,1192.918,what advice would you give to yourself ten or twenty years ago,i it when it comes to fear or flight i get the fear and i flight,6
+1193.357,1197.477,what advice would you give to yourself ten or twenty years ago,so sometimes you just have to sit in fear and then,6
+1198.49,1199.754,what advice would you give to yourself ten or twenty years ago,everything works out,6
+1205.663,1206.318,what are you most proud of in your life,wow,7
+1211.427,1216.021,what are you most proud of in your life,i'm most proud that i <sigh> have remained,7
+1217.284,1218.004,what are you most proud of in your life,genuine,7
+1218.57,1222.782,what are you most proud of in your life,um i'm most proud of,7
+1225.975,1227.545,what are you most proud of in your life,being who i am,7
+1228.554,1233.528,what are you most proud of in your life,and being basically comfortable with that and i'm proud of that i haven't changed,7
+1235.09,1239.93,what are you most proud of in your life,to the world <wor> to the world you know for the world i haven't changed i've stayed,7
+1241.235,1242.315,what are you most proud of in your life,mm who i am,7

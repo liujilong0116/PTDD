@@ -1,0 +1,33 @@
+start_time,stop_time,question,value,topic_idx
+95.3,95.72,how are you doing today,okay,0
+181.68,183.0,what'd you study at school,um sociology,2
+183.66,184.63,what'd you study at school,and psychology,2
+222.9,223.09,what's your dream job,<tisk>,11
+224.25,226.63,what's your dream job,uh to own my own,11
+227.1,233.96,what's your dream job,uh nonprofit organization that provides um services for,11
+234.82,238.56,what's your dream job,women um that are considered marginalized populations,11
+249.44,250.1,do you travel a lot,mm,12
+250.72,256.19,do you travel a lot,i like to travel but um no i don't travel a lot,12
+365.16,366.34,how are you at controlling your temper,comme ci comme ca,1
+366.89,371.29,how are you at controlling your temper,sometimes i'm really good for the most part,1
+372.2,378.92,how are you at controlling your temper,but there are times um when i'm feeling very stressed and i have uh,1
+379.455,381.925,how are you at controlling your temper,temper outburst uh anger outbursts,1
+391.7,393.55,when was the last time you argued with someone and what was it about,i don't know <sigh> about ,5
+397.88,400.09,when was the last time you argued with someone and what was it about,maybe um,5
+402.76,403.79,when was the last time you argued with someone and what was it about,thirty days,5
+404.89,405.58,when was the last time you argued with someone and what was it about,ago,5
+406.795,408.995,when was the last time you argued with someone and what was it about,and it was about,5
+409.61,412.25,when was the last time you argued with someone and what was it about,my inadequate parenting skills,5
+868.63,869.99,how easy is it for you to get a good night's sleep,mm sometimes good,9
+870.405,871.845,how easy is it for you to get a good night's sleep,i have to be really tired,9
+872.63,874.02,how easy is it for you to get a good night's sleep,um sometimes not so good,9
+888.375,889.555,how have you been feeling lately,mm,13
+890.695,891.565,how have you been feeling lately,ineffective,13
+934.66,934.83,have you ever been diagnosed with ptsd,no,14
+937.66,938.18,have you been diagnosed with depression,yes,4
+993.93,994.39,when was the last time you felt really happy,mm,8
+1004.68,1005.3,when was the last time you felt really happy,i don't know,8
+1006.46,1009.06,when was the last time you felt really happy,two thousand six two thousand seven,8
+1120.93,1121.35,is there anything you regret,yeah,3
+1129.185,1130.035,what advice would you give to yourself ten or twenty years ago,go to college,6
+1136.365,1137.035,what are you most proud of in your life,my children,7

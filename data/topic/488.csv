@@ -1,0 +1,50 @@
+start_time,stop_time,question,value,topic_idx
+61.53,61.99,how are you doing today,fine,0
+102.96,107.26,do you travel a lot,uh not really i like to go camping but i don't really travel,12
+175.24,175.88,what'd you study at school,philosophy,2
+205.94,206.76,what's your dream job,huh,11
+208.0,212.37,what's your dream job,i don't know but i really like children and i really like,11
+213.79,217.58,what's your dream job,studying their behavior so i think something along those lines might be it,11
+260.82,264.49,how are you at controlling your temper,i think i'm pretty good i don't really get mad i try to think about,1
+265.64,269.61,how are you at controlling your temper,other things if i start getting mad or um,1
+270.45,272.61,how are you at controlling your temper,i just start trying to focus on my breathing,1
+285.36,289.57,when was the last time you argued with someone and what was it about,i think the last time i argued with someone it was probably with my boyfriend,5
+290.38,296.28,when was the last time you argued with someone and what was it about,um but i'm having trouble remembering what the last thing we argued about was um,5
+298.9,307.02,when was the last time you argued with someone and what was it about,i think it was <wa> i wasn't feeling very well and i was having trouble deciding whether i wanted to go to his department's end of year party,5
+307.69,309.02,when was the last time you argued with someone and what was it about,and he was getting frustrated,5
+309.52,312.81,when was the last time you argued with someone and what was it about,which i thought was very inconsiderate 'cause i wasn't feeling well to begin with,5
+518.48,522.66,how easy is it for you to get a good night's sleep,i think it's pretty easy i mean sometimes i'll have trouble going to sleep but,9
+523.37,526.53,how easy is it for you to get a good night's sleep,generally it's not that bad it's i think it's usually harder for me to wake up in the morning,9
+545.4,547.88,how have you been feeling lately,pretty good i'm a little anxious about,13
+552.25,555.93,how have you been feeling lately,about getting a job and i'm gonna be taking summer school about,13
+556.41,558.77,how have you been feeling lately,it's only one class so i'll have a lot of free time,13
+561.65,561.9,how have you been feeling lately,yeah,13
+583.74,584.31,have you ever been diagnosed with ptsd,no,14
+588.36,588.92,have you been diagnosed with depression,no,4
+595.21,595.86,when was the last time you felt really happy,hmm,8
+597.78,601.19,when was the last time you felt really happy,well i think the last time i felt really happy i,8
+602.24,606.06,when was the last time you felt really happy,went to a party with my boyfriend the end of department party,8
+606.62,608.25,when was the last time you felt really happy,and um,8
+608.86,614.41,when was the last time you felt really happy,i was the you know i knew a couple people there so i felt comfortable but i was also able to meet new people,8
+614.75,620.45,when was the last time you felt really happy,and there were a couple kids there splashing around in the pool and i had a couple drinks and ate some food and it was fun,8
+627.06,629.96,how would your best friend describe you,um she would probably say that,10
+630.83,634.4,how would your best friend describe you,i'm smart and uh,10
+635.9,639.45,how would your best friend describe you,pretty intellectual i love to read and to watch,10
+640.52,642.88,how would your best friend describe you,really like serious films and t_v,10
+645.35,649.17,how would your best friend describe you,and she would probably also say that i'm fun 'cause we like to go out and have fun a lot,10
+732.24,734.23,what advice would you give to yourself ten or twenty years ago,well i would've been twelve,6
+734.81,735.5,what advice would you give to yourself ten or twenty years ago,and two,6
+738.45,739.73,what advice would you give to yourself ten or twenty years ago,but i think,6
+741.8,748.51,what advice would you give to yourself ten or twenty years ago,i think i would've told myself at twelve not to be so hard on myself and not to be so hard on my parents 'cause i think,6
+749.34,752.23,what advice would you give to yourself ten or twenty years ago,i was a little selfish and self-involved back then,6
+758.68,763.72,is there anything you regret,i can't really think of anything i mean i regret how i treated my mother when i was a kid but everyone does that and,3
+765.75,766.68,is there anything you regret,i do regret,3
+767.16,768.1,is there anything you regret,a couple of,3
+768.6,772.29,is there anything you regret,semesters ago i didn't do so well in school and i got a,3
+772.91,776.97,is there anything you regret,a few ws which i now have to work to get off on my transcript,3
+823.73,824.36,what are you most proud of in your life,huh,7
+833.27,838.45,what are you most proud of in your life,well my youngest brother is autistic and my mom and dad were always working when he was growing up,7
+838.95,840.69,what are you most proud of in your life,i'm ten years older than him so,7
+841.43,844.53,what are you most proud of in your life,and being the oldest i always i always took care of him which,7
+845.11,851.46,what are you most proud of in your life,made me really really patient because he was a handful but i'm really proud of how he turned out and,7
+852.76,854.7,what are you most proud of in your life,um and how close we are,7

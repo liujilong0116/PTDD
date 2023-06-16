@@ -1,0 +1,68 @@
+start_time,stop_time,question,value,topic_idx
+79.865,81.575,how are you doing today,i'm okay um,0
+81.835,82.715,how are you doing today,i'm a little,0
+84.05,86.3,how are you doing today,pensive i guess a little,0
+86.92,88.51,how are you doing today,uh down but,0
+89.11,90.32,how are you doing today,more or less okay,0
+449.027,451.997,how are you at controlling your temper,good i don't i don't really have a temper i,1
+452.817,460.942,how are you at controlling your temper,it's not i mean most of my anger that i have is directed inward as opposed to outward to other people,1
+461.56,470.38,how are you at controlling your temper,um if something is really really stressful or if i'm in a situation like a very intense confrontation i can,1
+470.845,477.24,how are you at controlling your temper,lose it but i probably <prob> that's probably only happened to me three four times in my whole life i mean generally i pretty much,1
+477.995,480.005,how are you at controlling your temper,try to it when i'm upset,1
+480.33,484.085,how are you at controlling your temper,i i get upset with myself not with other people,1
+495.065,497.42,when was the last time you argued with someone and what was it about,last night i guess well <weh> um,5
+497.83,500.5,when was the last time you argued with someone and what was it about,i got in an argument about whether or not,5
+501.945,506.26,when was the last time you argued with someone and what was it about,cleaning vegetables was necessary because of,5
+507.09,515.595,when was the last time you argued with someone and what was it about,i forget it but it well no it was about whether you can clean vegetables after you cut them because i'd already started cutting the vegetables and i thought that would be okay,5
+516.04,517.43,when was the last time you argued with someone and what was it about,so it turned into this,5
+517.86,523.165,when was the last time you argued with someone and what was it about,big argument and we did google searches to figure out who was right and who was wrong and i,5
+868.88,871.22,how easy is it for you to get a good night's sleep,i don't know i'm a very light sleeper so i,9
+871.765,876.305,how easy is it for you to get a good night's sleep,awake and asleep and awake and asleep <asl> i have no problem going back to sleep but i generally,9
+876.902,877.892,how easy is it for you to get a good night's sleep,you know don't,9
+882.772,886.027,how easy is it for you to get a good night's sleep,i don't know i never really needed much sleep so,9
+886.402,891.822,how easy is it for you to get a good night's sleep,it's just only recently that i've really started to to like feel the effects of not getting enough sleep,9
+892.217,902.152,how easy is it for you to get a good night's sleep,like i would i would usually stay up until two or three in the morning so that i could just be so exhausted that i could just conk out and wake up the next day and feel fine go to work,9
+902.532,910.637,how easy is it for you to get a good night's sleep,um but now it's it's it's like if i do that i can't i still don't get enough sleep i don't conk out i still just sleep very lightly,9
+910.919,913.609,how easy is it for you to get a good night's sleep,you know i get up i toss and turn all night,9
+913.819,914.919,how easy is it for you to get a good night's sleep,you know and now,9
+915.774,916.724,how easy is it for you to get a good night's sleep,it's just,9
+917.164,917.774,how easy is it for you to get a good night's sleep,it's,9
+918.844,921.114,how easy is it for you to get a good night's sleep,yeah i don't sleep too great right now,9
+1278.944,1282.074,how have you been feeling lately,you know better than i than i have been um i mean,13
+1284.204,1285.364,how have you been feeling lately,it it sort of,13
+1285.859,1287.499,how have you been feeling lately,it goes <g> it has its ups and downs,13
+1288.244,1291.524,how have you been feeling lately,um you know i'm applying for jobs,13
+1292.059,1293.319,how have you been feeling lately,five six jobs,13
+1293.854,1298.589,how have you been feeling lately,or more a a day you know and never getting a response never getting an interview,13
+1298.809,1300.539,how have you been feeling lately,never even getting close to,13
+1301.069,1303.819,how have you been feeling lately,to to being self sufficient again,13
+1305.294,1314.264,how have you been feeling lately,it's hard but that's like real world problems i feel like the chemical parts are getting under control like the the depression is getting under control,13
+1314.554,1317.754,how have you been feeling lately,so now it's just i have to deal with real life which is,13
+1319.219,1322.029,how have you been feeling lately,it just has its it's just its own own challenge,13
+1344.899,1347.314,when was the last time you felt really happy,it was probably you know a couple years ago,8
+1354.159,1355.459,when was the last time you felt really happy,i i was,8
+1356.194,1358.334,when was the last time you felt really happy,i mean the thing that immediately comes to mind,8
+1358.649,1359.189,when was the last time you felt really happy,uh,8
+1360.104,1360.564,when was the last time you felt really happy,is,8
+1361.409,1370.384,when was the last time you felt really happy,everything was going well at my job i was making these great videos with with this person that i that iwas having a relationship with and we were really close,8
+1370.714,1372.214,when was the last time you felt really happy,we were having fun together,8
+1372.579,1376.719,when was the last time you felt really happy,and we went out and got a christmas tree,8
+1377.654,1378.324,when was the last time you felt really happy,and,8
+1379.174,1383.604,when was the last time you felt really happy,we spent the all this time picking out the perfect christmas tree and it was just,8
+1384.809,1387.829,when was the last time you felt really happy,feeling like a part of somebody's life,8
+1388.154,1392.684,when was the last time you felt really happy,and feeling like a part of the bigger,8
+1393.854,1395.134,when was the last time you felt really happy,the bigger life,8
+1396.039,1399.639,when was the last time you felt really happy,that's that's out there you know like what normal people feel,8
+1400.734,1402.874,when was the last time you felt really happy,you know for that instant i felt like,8
+1403.739,1411.754,when was the last time you felt really happy,a normal person doing a normal thing with a pretty girl who he really really liked a lot and,8
+1412.279,1415.874,when was the last time you felt really happy,you know everything was going really well and,8
+1452.92,1454.41,what are you most proud of in your life,probably the,7
+1456.0,1456.91,what are you most proud of in your life,probably this,7
+1457.93,1461.81,what are you most proud of in your life,educational <educary> educational series i did uh,7
+1462.48,1463.91,what are you most proud of in your life,an educational,7
+1464.54,1467.99,what are you most proud of in your life,uh video series i did for the national science foundation,7
+1470.505,1471.285,what are you most proud of in your life,it was,7
+1471.62,1476.53,what are you most proud of in your life,it it was really hard and it but in the end it turned out really good and,7
+1476.73,1485.12,what are you most proud of in your life,you know i'm hoping that it helps a lot of kids and it helps the world with getting kids excited about science and about um,7
+1486.98,1492.525,what are you most proud of in your life,and about the world around them so that i feel like that was a real contribution that i made to,7
+1493.265,1494.095,what are you most proud of in your life,the world,7

@@ -1,0 +1,25 @@
+start_time,stop_time,question,value,topic_idx
+65.2,65.79,how are you doing today,i'm fine,0
+179.72,182.47,what'd you study at school,i have a a teaching degree and a art degree,2
+187.39,188.02,what's your dream job,<sigh>,11
+188.61,189.35,what's your dream job,designing,11
+191.46,192.44,what's your dream job,for the movie industry,11
+278.68,280.09,when was the last time you argued with someone and what was it about,i argued with my sister,5
+281.23,282.01,when was the last time you argued with someone and what was it about,about obama,5
+332.79,333.66,do you travel a lot,uh yes,12
+384.19,384.49,have you ever been diagnosed with ptsd,no,14
+388.36,388.79,have you been diagnosed with depression,yes,4
+562.23,564.22,when was the last time you felt really happy,when my uh nephew called me,8
+566.12,569.1,when was the last time you felt really happy,scrubbed_entry,8
+570.44,574.11,when was the last time you felt really happy,scrubbed_entry,8
+584.27,586.33,what are you most proud of in your life,uh that i i'm a pretty good person,7
+587.22,588.03,what are you most proud of in your life,caring person,7
+638.66,640.55,how would your best friend describe you,mm as a good caring friend,10
+642.58,644.72,how would your best friend describe you,and somebody who likes to do things,10
+728.63,730.09,is there anything you regret,uh not going farther,3
+731.48,732.41,is there anything you regret,in my education,3
+767.44,767.94,what advice would you give to yourself ten or twenty years ago,mm,6
+770.71,775.66,what advice would you give to yourself ten or twenty years ago,i should've gone gotten farther in in in my education gotten a master's or a p_h_d ,6
+776.8,778.97,what advice would you give to yourself ten or twenty years ago,and i think my job search would be a lot easier,6
+801.73,804.31,what are you most proud of in your life,uh that i've <clears throat> been a very ,7
+805.65,808.25,what are you most proud of in your life,kind considerate helpful person,7

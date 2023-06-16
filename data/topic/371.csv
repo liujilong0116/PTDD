@@ -1,0 +1,31 @@
+start_time,stop_time,question,value,topic_idx
+60.78,61.92,how are you doing today,i'm doing pretty good thank you,0
+105.15,106.98,do you travel a lot,uh no i haven't uh,12
+107.62,109.12,do you travel a lot,i've only been out of the country once,12
+110.4,112.89,do you travel a lot,or a few times actually but only to one other country,12
+148.39,152.01,what'd you study at school,uh after high school i went to beauty school,2
+153.04,153.93,what'd you study at school,for cosmetology,2
+183.16,183.78,what's your dream job,mm,11
+186.74,188.37,what's your dream job,well uh,11
+191.97,194.65,what's your dream job,that's a that's a tough one to answer i'd have to think about that,11
+242.43,243.06,how are you at controlling your temper,mm,1
+244.04,244.97,how are you at controlling your temper,not the best,1
+252.95,253.63,when was the last time you argued with someone and what was it about,uh,5
+256.3,259.59,when was the last time you argued with someone and what was it about,i had an argument with my mother over,5
+260.55,261.12,when was the last time you argued with someone and what was it about,uh,5
+261.54,264.2,when was the last time you argued with someone and what was it about,how we should handle doing things with my grandmother,5
+420.09,421.86,how easy is it for you to get a good night's sleep,uh extremely difficult,9
+485.57,486.19,have you been diagnosed with depression,i haven't,4
+489.55,489.84,have you ever been diagnosed with ptsd,no,14
+536.0,537.11,when was the last time you felt really happy,i guess i felt uh,8
+538.0,540.11,when was the last time you felt really happy,eh it's been awhile since i've been really happy,8
+543.11,547.32,when was the last time you felt really happy,i don't have uh a whole lot of very happy thoughts as recently,8
+680.66,681.98,how would your best friend describe you,mm i don't have a best friend,10
+691.09,691.64,what are you most proud of in your life,mm,7
+695.56,696.8,what are you most proud of in your life,well let's come back to that one,7
+729.19,733.74,is there anything you regret,uh well <we> some of the decisions i've made in my life i have regrets,3
+740.28,740.83,what advice would you give to yourself ten or twenty years ago,<sigh>,6
+745.28,747.14,what advice would you give to yourself ten or twenty years ago,uh take care of business first,6
+747.62,750.06,what advice would you give to yourself ten or twenty years ago,and always handle your responsibilities,6
+784.3,785.63,what are you most proud of in your life,mm <sigh>,7
+795.62,797.34,what are you most proud of in your life,wow i don't have an answer for ya,7

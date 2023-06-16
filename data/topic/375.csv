@@ -1,0 +1,26 @@
+start_time,stop_time,question,value,topic_idx
+65.33,65.91,how are you doing today,good,0
+67.07,67.97,how are you doing today,it's been a nice day,0
+115.05,116.29,do you travel a lot,i can't see your shoes,12
+119.77,120.1,do you travel a lot,<sniffle>,12
+155.26,155.52,what'd you study at school,art,2
+168.33,169.19,what's your dream job,probably doing what you're doing,11
+169.59,169.95,what's your dream job,<laughter>,11
+171.68,174.46,what's your dream job,i'm really interested in coming up with new ideas and stuff too,11
+214.05,214.35,how are you at controlling your temper,good,1
+222.36,225.65,when was the last time you argued with someone and what was it about,i argued with my brother last night actually about him,5
+227.16,229.0,when was the last time you argued with someone and what was it about,talking to me with with more respect,5
+229.79,230.43,when was the last time you argued with someone and what was it about,as a person,5
+368.21,369.4,how easy is it for you to get a good night's sleep,the past couple days has been,9
+370.64,372.8,how easy is it for you to get a good night's sleep,kinda hard but i usually go to sleep good,9
+387.8,389.31,how have you been feeling lately,positive optimistic,13
+429.08,429.5,have you ever been diagnosed with ptsd,no,14
+432.08,432.47,have you been diagnosed with depression,no,4
+447.22,451.02,when was the last time you felt really happy,i was happy yesterday <yester> i happy yesterday 'cause i you know i made a couple good decisions,8
+471.24,471.84,what are you most proud of in your life,being alive,7
+472.78,473.41,what are you most proud of in your life,knowing god,7
+480.22,480.83,how would your best friend describe you,i don't know,10
+546.08,546.44,is there anything you regret,no,3
+553.82,557.08,what advice would you give to yourself ten or twenty years ago,don't smoke cigarettes and watch how you spend your money,6
+559.48,561.54,what advice would you give to yourself ten or twenty years ago,are you gonna sell my ideas and my my uh <laughter>,6
+561.97,562.52,what advice would you give to yourself ten or twenty years ago,thoughts,6

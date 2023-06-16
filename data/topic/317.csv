@@ -1,0 +1,29 @@
+start_time,stop_time,question,value,topic_idx
+61.15,63.64,how are you doing today,uh i'm okay a little sleepy right now ,0
+181.54,185.21,do you travel a lot,um just locally travel since i've been here ,12
+181.54,185.21,do you travel a lot,um just locally travel since i've been here ,12
+267.08,269.47,how are you at controlling your temper,pretty uh pretty good pretty controlled ,1
+349.71,350.42,what's your dream job,<sharp inhale>,11
+350.85,352.12,what's your dream job,<cough> um,11
+353.34,353.69,what's your dream job,<cough>,11
+354.38,354.86,what's your dream job,see,11
+363.29,365.64,what's your dream job,um probably <prob> probably uh ,11
+368.58,372.62,what's your dream job,doing something creative that allows me to travel at the same time ,11
+388.11,388.67,have you ever been diagnosed with ptsd,yes,14
+436.25,436.92,have you been diagnosed with depression,yes,4
+445.15,445.68,how have you been feeling lately,kind of,13
+446.68,447.19,how have you been feeling lately,uh,13
+449.438,452.618,how have you been feeling lately,i guess sorta sorta depressed ,13
+455.348,455.928,how have you been feeling lately,generally,13
+489.37,490.47,how would your best friend describe you,<cough> um ,10
+493.15,498.0,how would your best friend describe you,i guess easy-going and um likes to have fun sometimes  ,10
+560.14,564.46,is there anything you regret,uh regret yes yeah ,3
+574.625,576.035,what advice would you give to yourself ten or twenty years ago,<sharp inhale> um ,6
+582.415,585.805,what advice would you give to yourself ten or twenty years ago,um be careful who you trust in life maybe ,6
+614.16,617.4,when was the last time you felt really happy,i'd say maybe ten <te> ten years ago or so ,8
+685.1,687.14,when was the last time you argued with someone and what was it about,friends for about money issues ,5
+688.53,689.48,when was the last time you argued with someone and what was it about,spending too much ,5
+731.764,736.064,what are you most proud of in your life,um i'd say finishing grad school and finishing um,7
+737.504,737.884,what are you most proud of in your life,some,7
+738.914,743.534,what are you most proud of in your life,training um at a sea <s> for a sea <s> a a seamanship maritime school ,7
+748.7,750.78,what'd you study at school,i visual studies cinema studies ,2

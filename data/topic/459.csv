@@ -1,0 +1,35 @@
+start_time,stop_time,question,value,topic_idx
+63.89,64.9,how are you doing today,i'm alright a little tired,0
+114.86,115.56,do you travel a lot,<laughter>,12
+117.09,119.11,do you travel a lot,uh i've been out of the country a few times,12
+183.66,185.79,what'd you study at school,uh i wanted to be an art major but,2
+186.24,192.58,what'd you study at school,i didn't understand why i was in math classes among other classes and i thought i was wasting my time so i decided i really didn't wanna do that,2
+194.23,195.39,what'd you study at school,so i moved back to l_a,2
+201.385,204.235,what's your dream job,i don't really have a dream job uh i,11
+205.6,207.46,what's your dream job,would like to be self-employed though,11
+300.42,302.16,how are you at controlling your temper,i'm alright at it sometimes i lose it,1
+304.06,307.5,how are you at controlling your temper,i yell when i lose my temper and,1
+308.02,309.72,how are you at controlling your temper,i have put holes in walls,1
+322.075,323.925,when was the last time you argued with someone and what was it about,last night me and my mom got in an argument,5
+324.96,326.03,when was the last time you argued with someone and what was it about,it was,5
+326.95,328.49,when was the last time you argued with someone and what was it about,about me buying a,5
+329.06,331.33,when was the last time you argued with someone and what was it about,ticket last night for a greyhound,5
+332.25,333.18,when was the last time you argued with someone and what was it about,to go to utah,5
+522.41,523.58,how easy is it for you to get a good night's sleep,almost impossible,9
+583.53,589.0,how have you been feeling lately,i've been alright this weekend is been better than most my girlfriend has stayed at my place the entire weekend so,13
+589.68,590.52,how have you been feeling lately,i've been happy,13
+613.795,614.225,have you ever been diagnosed with ptsd,no,14
+615.2,615.52,have you ever been diagnosed with ptsd,but,14
+616.96,617.57,have you been diagnosed with depression,yes,4
+701.55,702.34,when was the last time you felt really happy,two days ago,8
+722.23,723.26,how would your best friend describe you,trustworthy,10
+725.74,726.44,how would your best friend describe you,funny,10
+727.15,728.58,how would your best friend describe you,shit i don't um,10
+731.17,734.85,how would your best friend describe you,outgoing smart athletic he would um,10
+735.36,735.69,how would your best friend describe you,yeah,10
+797.315,797.755,is there anything you regret,yeah,3
+800.1,801.44,is there anything you regret,everyone has something they regret,3
+810.43,813.22,what advice would you give to yourself ten or twenty years ago,<deep breath> <sigh> not to be so naive,6
+926.62,931.53,what are you most proud of in your life,i haven't really felt like i've accomplished anything to be adequately proud of but i,7
+932.8,935.04,what are you most proud of in your life,did very well in sports in high school and,7
+937.28,937.84,what are you most proud of in your life,that's really it,7

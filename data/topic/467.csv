@@ -1,0 +1,48 @@
+start_time,stop_time,question,value,topic_idx
+68.89,69.52,how are you doing today,uh,0
+70.85,72.02,how are you doing today,i feel i feel pretty good,0
+154.18,155.79,do you travel a lot,uh i like to travel somewhat,12
+156.18,158.9,do you travel a lot,uh i haven't traveled a lot in my life but over the past,12
+159.64,161.3,do you travel a lot,uh year and a half i've done,12
+162.22,163.68,do you travel a lot,done quite a bit of traveling,12
+297.07,300.12,what'd you study at school,uh i was i took two semesters,2
+300.98,304.09,what'd you study at school,of uh college and i was undecided,2
+305.05,306.6,what'd you study at school,so i was just taking general classes,2
+309.1,310.09,what's your dream job,my dream job,11
+312.55,313.23,what's your dream job,huh,11
+315.36,317.08,what's your dream job,i guess my dream job would to be,11
+318.04,323.52,what's your dream job,<ss> anything that involves <invol> uh i don't have like a specific dream job but anything that involves nature,11
+324.3,325.16,what's your dream job,just being outside,11
+325.99,327.85,what's your dream job,uh i would like to uh,11
+328.77,332.09,what's your dream job,i wouldn't mind being like a like a forest ranger or something like that,11
+333.825,334.965,what's your dream job,just as long as i you know,11
+383.23,384.65,how are you at controlling your temper,i think i'm pretty good at it,1
+392.012,395.032,when was the last time you argued with someone and what was it about,<deep breath> wow uh,5
+404.96,407.36,when was the last time you argued with someone and what was it about,yeah i can't remember the last time i had an argument with someone,5
+415.58,416.23,when was the last time you argued with someone and what was it about,i don't know,5
+661.16,661.8,how easy is it for you to get a good night's sleep,very easy,9
+668.045,668.7,how have you been feeling lately,uh,13
+672.818,673.95,how have you been feeling lately,maybe unsure,13
+675.381,676.0,how have you been feeling lately,i would say,13
+789.88,790.22,have you ever been diagnosed with ptsd,no,14
+792.92,793.2,have you been diagnosed with depression,no,4
+802.7,803.38,when was the last time you felt really happy,uh,8
+805.545,806.485,when was the last time you felt really happy,xxx today,8
+808.23,811.3,when was the last time you felt really happy,when i talked when i uh talked to my friend earlier,8
+821.04,822.872,how would your best friend describe you,how would my best friend describe me,10
+826.72,828.672,how would your best friend describe you,uh i guess he would say i'm quiet,10
+829.74,830.49,how would your best friend describe you,uh,10
+834.79,835.681,how would your best friend describe you,uh,10
+837.13,838.89,how would your best friend describe you,guess he would describe as a nice guy,10
+842.67,843.27,how would your best friend describe you,uh,10
+845.57,846.63,how would your best friend describe you,guess insightful,10
+849.77,850.463,how would your best friend describe you,mm,10
+855.51,856.42,how would your best friend describe you,uh goofy,10
+858.47,858.95,how would your best friend describe you,and,10
+860.9,861.163,how would your best friend describe you,yeah,10
+877.99,878.372,is there anything you regret,no,3
+884.73,885.936,what advice would you give to yourself ten or twenty years ago,ten or twenty years ago,6
+886.87,889.16,what advice would you give to yourself ten or twenty years ago,uh guess i would tell myself to,6
+892.319,894.699,what advice would you give to yourself ten or twenty years ago,stick with what what stick with what i love,6
+937.386,938.646,what are you most proud of in your life,what am i most proud of,7
+946.56,949.0,what are you most proud of in your life,like an event or a an accomplishment,7

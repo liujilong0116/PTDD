@@ -1,0 +1,25 @@
+start_time,stop_time,question,value,topic_idx
+80.99,81.5,how are you doing today,uh,0
+82.01,84.53,how are you doing today,okay i guess not bad not good,0
+85.72,86.15,how are you doing today,so so,0
+217.13,221.02,how are you at controlling your temper,uh so so not not as good as i'd like to be,1
+227.36,228.34,when was the last time you argued with someone and what was it about,uh,5
+230.485,234.705,when was the last time you argued with someone and what was it about,a few days ago about getting paid for something i did on time,5
+286.26,290.135,what'd you study at school,i have a degree in in liberal arts majored in political science,2
+303.795,304.245,what's your dream job,hmm,11
+306.465,307.915,what's your dream job,to own uh,11
+309.28,314.295,what's your dream job,several of my own businesses and and have lots of money coming in from different streams,11
+315.37,316.32,what's your dream job,i guess if that's a job,11
+355.275,359.915,do you travel a lot,um not recently but i have in my life traveled quite a bit,12
+423.18,423.77,when was the last time you felt really happy,hmm,8
+428.925,431.335,when was the last time you felt really happy,uh maybe like,8
+432.32,433.14,when was the last time you felt really happy,six months ago,8
+478.47,479.71,have you been diagnosed with depression,uh yeah awhile ago,4
+601.265,602.185,what are you most proud of in your life,uh,7
+602.895,604.505,what are you most proud of in your life,being able to,7
+607.425,612.065,what are you most proud of in your life,survive on my own in a city like this completely on my own with no outside help ,7
+619.975,621.475,is there anything you regret,yeah lots of stuff,3
+648.16,655.16,what advice would you give to yourself ten or twenty years ago,i would tell myself to seek out and listen to people older than me as much as possible,6
+698.74,700.22,how would your best friend describe you,talented,10
+701.705,702.535,how would your best friend describe you,and,10
+703.62,710.945,how would your best friend describe you,i don't know good at stuff i'm good at a lot of stuff people seem to notice that i i guess nice good disposition funny,10
